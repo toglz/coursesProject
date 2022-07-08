@@ -1,0 +1,28 @@
+{
+  "name": "coursesproject",
+  "version": "1.0.0",
+  "description": "---\r ## Functional\r - Coming soon",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toglz/coursesProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toglz/coursesProject/issues"
+  },
+  "homepage": "https://github.com/toglz/coursesProject#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
